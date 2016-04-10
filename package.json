@@ -1,0 +1,41 @@
+{
+  "name": "B2B-1.0.0",
+  "version": "1.0.0",
+  "description": "Program for process sales files from differents clients.",
+  "private": true,
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "config-template": "echo \"Error: no config-template specified\" && exit 1",
+    "sync-db": "node ./lib/database",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-windows-service": "winser -i",
+    "configure-windows-service-in-production": "node_modules\\winser\\bin\\nssm set B2B-1.0.0 AppEnvironmentExtra NODE_ENV=production",
+    "uninstall-windows-service": "winser -r -x"
+  },
+  "author": "Luigui Balarezo <luiguibalarezo@gmail.com>",
+  "dependencies": {
+    "accounting": "0.4.1",
+    "base64-stream": "0.1.2",
+    "bluebird": "2.9.34",
+    "byline": "4.2.1",
+    "casperjs": "1.1.0-beta3",
+    "concat-stream": "1.5.0",
+    "later": "1.2.0",
+    "mathjs": "1.1.0",
+    "moment": "2.10.6",
+    "mv": "2.1.1",
+    "mysql": "2.9.0",
+    "nconf": "0.7.2",
+    "phantomjs": "1.9.11",
+    "resumer": "0.0.0",
+    "sequelize": "2.0.4",
+    "underscore": "1.6.0",
+    "which": "1.1.1",
+    "winser": "1.0.0",
+    "winston": "1.0.1",
+    "winston-mail": "0.4.0",
+    "xlsx": "0.8.0",
+    "yargs": "3.29.0"
+  }
+}
