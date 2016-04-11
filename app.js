@@ -1,5 +1,4 @@
 'use strict';
-//debugger;
 var which = require('which'),
 	logger = require('./lib/logger'),
 	config = require('./config/');
@@ -23,7 +22,5 @@ which('casperjs', function(err, execPath){
 		throw installErr;
 	}
 	require('./lib/sale-clients')(execPath, __dirname).start();
-    require('./lib/products-clients')(execPath, __dirname).start();
-    require('./lib/products-oxford')(execPath, __dirname).start();
 
 });

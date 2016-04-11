@@ -1,0 +1,12 @@
+{
+  "email": {
+    "host": "smtp.mandrillapp.com",
+    "port": 587,
+    "ssl": false,
+    "tls": true,
+    "username": "oxford.logs@gmail.com",
+    "password": "mM2IVUnOFBqbDpUs7wfwsQ",
+    "from": "Bot - Carga de Archivo de Ventas <oxford.logs@gmail.com>",
+    "to": "Soporte <bjrmatos@gmail.com>, Soporte2 <bmatos@tam-c.com>"
+  }
+}

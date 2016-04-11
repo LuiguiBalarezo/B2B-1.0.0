@@ -1,0 +1,13 @@
+{
+  "tottus": {
+    "insertProductsDirectory" : "C:\\test-insert-retails-products\\tottus",
+    "website": "https://b2b.tottus.com/",
+    "corporationId": "20505039689",
+    "username": "46636732",
+    "pwd": "*OXFORD16",
+    "logger": {
+      "info": "C:\\test-sale-files-log\\saga\\info.log",
+      "error": "C:\\test-sale-files-log\\saga\\error.log"
+    }
+  }
+}

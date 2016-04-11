@@ -1,0 +1,14 @@
+{
+  "saga": {
+    "insertProductsDirectory" : "C:\\test-insert-retails-products\\saga",
+    "website": "https://b2b.falabella.com/",
+    "corporationId": "20505039689",
+    "username": "43339735",
+    "pwd": "oxford2017",
+    "logger": {
+      "info": "C:\\test-sale-files-log\\saga\\info.log",
+      "error": "C:\\test-sale-files-log\\saga\\error.log"
+    }
+  }
+
+}

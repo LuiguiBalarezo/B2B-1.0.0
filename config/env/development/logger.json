@@ -1,0 +1,6 @@
+{
+  "logger": {
+    "info": "C:\\test-sale-files-log\\app.info.log",
+    "error": "C:\\test-sale-files-log\\app.error.log"
+  }
+}

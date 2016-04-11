@@ -1,0 +1,9 @@
+{
+  "estilos": {
+    "saleFilesDirectory": "",
+    "logger": {
+      "info": "C:\\test-sale-files-log\\estilos\\info.log",
+      "error": "C:\\test-sale-files-log\\estilos\\error.log"
+    }
+  }
+}
