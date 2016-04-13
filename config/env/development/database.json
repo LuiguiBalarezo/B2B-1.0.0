@@ -4,6 +4,6 @@
     "port": 3306,
     "username": "root",
     "password": "",
-    "database": "oxford_comisiones"
+    "database": "smicrof"
   }
 }
