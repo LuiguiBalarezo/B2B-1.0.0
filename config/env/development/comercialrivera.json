@@ -1,0 +1,10 @@
+{
+  "comercialrivera": {
+    "insertProductsDirectory" : "C:\\test-insert-retails-products\\comercial-rivera",
+    "saleFilesDirectory": "C:\\test-insert-sale-retails\\comercial-rivera",
+    "logger": {
+      "info": "C:\\test-sale-files-log\\comercialrivera\\info.log",
+      "error": "C:\\test-sale-files-log\\comercialrivera\\error.log"
+    }
+  }
+}

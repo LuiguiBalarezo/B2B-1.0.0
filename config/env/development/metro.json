@@ -1,0 +1,9 @@
+{
+  "metro": {
+    "saleFilesDirectory": "C:\\B2BCOMISIONES",
+    "logger": {
+      "info": "C:\\test-sale-files-log\\oechsle\\info.log",
+      "error": "C:\\test-sale-files-log\\oechsle\\error.log"
+    }
+  }
+}

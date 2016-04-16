@@ -1,6 +1,6 @@
 {
   "saga": {
-    "insertProductsDirectory" : "C:\\test-insert-retails-products\\saga",
+    "saleFilesDirectory": "C:\\B2BCOMISIONES",
     "website": "https://b2b.falabella.com/",
     "corporationId": "20505039689",
     "username": "43339735",

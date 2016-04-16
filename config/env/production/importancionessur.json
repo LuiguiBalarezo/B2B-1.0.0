@@ -1,0 +1,9 @@
+{
+  "importacionessur": {
+    "saleFilesDirectory": "C:\\B2BCOMISIONES",
+    "logger": {
+      "info": "C:\\test-sale-files-log\\paris\\info.log",
+      "error": "C:\\test-sale-files-log\\paris\\error.log"
+    }
+  }
+}
