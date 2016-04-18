@@ -1,78 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e60b94eb-c332-476a-b973-329e913030cc" name="Default" comment="Initial&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/B2B-1.0.0.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/comercialrivera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/comercialrivera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/comercialrivera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/credivargas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/credivargas.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/credivargas.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/dimersa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/dimersa.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/dimersa.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/importacionescasel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/importacionescasel.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/importacionescasel.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/importacionessur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/importancionessur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/importancionessur.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/llontop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/llontop.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/llontop.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/mario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/mario.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/mario.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/metro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/metro.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/metro.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/oechsle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/oechsle.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/oechsle.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/paris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/paris.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/paris.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/predilecta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/predilecta.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/predilecta.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/quispe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/quispe.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/quispe.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/loggers/yucra.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/development/yucra.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/env/production/yucra.json" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\B2B-1.0.0\lib\sale-clients\proccess-data\saga.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/temporal/saga.js" />
-      <change type="MOVED" beforePath="C:\xampp\htdocs\B2B-1.0.0\lib\sale-clients\saga.js" afterPath="$PROJECT_DIR$/lib/sale-clients/temporal/saga.js" />
+    <list default="true" id="e60b94eb-c332-476a-b973-329e913030cc" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/utilRead.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snapshots/SAGAfillingMenu.png" afterPath="$PROJECT_DIR$/snapshots/SAGAfillingMenu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/env/development/database.json" afterPath="$PROJECT_DIR$/config/env/development/database.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/env/production/database.json" afterPath="$PROJECT_DIR$/config/env/production/database.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/estilos.js" afterPath="$PROJECT_DIR$/lib/sale-clients/estilos.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/index.js" afterPath="$PROJECT_DIR$/lib/sale-clients/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/env/development/saga.json" afterPath="$PROJECT_DIR$/config/env/development/saga.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/env/production/saga.json" afterPath="$PROJECT_DIR$/config/env/production/saga.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utilReadFile.js" afterPath="$PROJECT_DIR$/lib/utilReadFile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snapshots/sAGAVentas.png" afterPath="$PROJECT_DIR$/snapshots/sAGAVentas.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" />
     </list>
     <ignored path="B2B-1.0.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -96,50 +30,91 @@
     <favorites_list name="B2B-1.0.0" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5845182">
+    <splitter split-orientation="vertical" split-proportion="0.9">
       <split-first>
-        <leaf>
-          <file leaf-file-name="ripley.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.737003" vertical-offset="2377" max-vertical-offset="2771">
-                  <caret line="154" column="11" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
+        <splitter split-orientation="vertical" split-proportion="0.70855147">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="yucra.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state vertical-scroll-proportion="1.5030864" vertical-offset="1706" max-vertical-offset="2346">
+                      <caret line="129" column="48" selection-start-line="129" selection-start-column="48" selection-end-line="129" selection-end-column="48" />
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="utilRead.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/lib/utilRead.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state vertical-scroll-proportion="3.5294118" vertical-offset="380" max-vertical-offset="969">
+                      <caret line="168" column="67" selection-start-line="168" selection-start-column="67" selection-end-line="168" selection-end-column="67" />
+                      <folding>
+                        <element signature="e#400#460#0" expanded="false" />
+                        <element signature="e#506#545#0" expanded="false" />
+                        <element signature="e#594#640#0" expanded="false" />
+                        <element signature="e#696#745#0" expanded="false" />
+                        <element signature="e#932#985#0" expanded="false" />
+                        <element signature="e#1104#1209#0" expanded="false" />
+                        <element signature="e#1270#1319#0" expanded="false" />
+                        <element signature="e#1384#1435#0" expanded="false" />
+                        <element signature="e#1501#1555#0" expanded="false" />
+                        <element signature="e#1624#1677#0" expanded="false" />
+                        <element signature="e#1728#1772#0" expanded="false" />
+                        <element signature="e#1834#1883#0" expanded="false" />
+                        <element signature="e#1959#2022#0" expanded="false" />
+                        <element signature="e#2070#2116#0" expanded="false" />
+                        <element signature="e#2184#2635#0" expanded="false" />
+                        <element signature="e#2681#2716#0" expanded="false" />
+                        <element signature="e#2765#2935#0" expanded="false" />
+                        <element signature="e#2998#4180#0" expanded="false" />
+                        <element signature="e#4226#4412#0" expanded="false" />
+                        <element signature="e#4461#5139#0" expanded="false" />
+                        <element signature="e#5195#5707#0" expanded="false" />
+                        <element signature="e#5775#6432#0" expanded="false" />
+                        <element signature="e#5899#6375#0" expanded="false" />
+                        <element signature="e#6490#7046#0" expanded="false" />
+                        <element signature="e#7156#7883#0" expanded="false" />
+                        <element signature="e#7944#8227#0" expanded="false" />
+                        <element signature="e#8291#9730#0" expanded="false" />
+                        <element signature="e#9801#11237#0" expanded="false" />
+                        <element signature="e#11305#12581#0" expanded="false" />
+                        <element signature="e#12632#13361#0" expanded="false" />
+                        <element signature="e#13423#14853#0" expanded="false" />
+                        <element signature="e#14910#15857#0" expanded="false" />
+                        <element signature="e#15906#15993#0" expanded="false" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
       </split-first>
       <split-second>
         <leaf>
           <file leaf-file-name="utilReadFile.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/lib/utilReadFile.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.35813954" vertical-offset="12571" max-vertical-offset="16371">
-                  <caret line="1041" column="0" selection-start-line="1041" selection-start-column="0" selection-end-line="1041" selection-end-column="0" />
+                <state vertical-scroll-proportion="-68.0" vertical-offset="10421" max-vertical-offset="18683">
+                  <caret line="778" column="0" selection-start-line="778" selection-start-column="0" selection-end-line="781" selection-end-column="1" />
                   <folding>
                     <element signature="e#538#626#0" expanded="false" />
                     <element signature="e#633#698#0" expanded="false" />
+                    <element signature="e#1109#2391#0" expanded="false" />
                     <element signature="e#2433#2474#0" expanded="false" />
                     <element signature="e#2533#3043#0" expanded="false" />
                     <element signature="e#3089#3526#0" expanded="false" />
                     <element signature="e#3587#4030#0" expanded="false" />
+                    <element signature="e#4092#4653#0" expanded="false" />
                     <element signature="e#4709#5281#0" expanded="false" />
-                    <element signature="e#5492#6524#0" expanded="false" />
-                    <element signature="e#6737#7755#0" expanded="false" />
-                    <element signature="e#7837#7894#0" expanded="false" />
-                    <element signature="e#15950#16020#0" expanded="false" />
-                    <element signature="e#16083#16140#0" expanded="false" />
-                    <element signature="e#16195#16243#0" expanded="false" />
-                    <element signature="e#16313#16368#0" expanded="false" />
-                    <element signature="e#16566#16625#0" expanded="false" />
-                    <element signature="e#17611#18630#0" expanded="false" />
-                    <element signature="e#18707#19064#0" expanded="false" />
-                    <element signature="e#19194#20291#0" expanded="false" />
-                    <element signature="e#20522#21296#0" expanded="false" />
-                    <element signature="e#22630#23659#0" expanded="false" />
-                    <element signature="e#34140#34505#0" expanded="false" />
+                    <element signature="e#8885#10696#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -165,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/sale-clients/saga.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/temporal/saga.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/temporal/tottus.js" />
         <option value="$PROJECT_DIR$/config/env/common.json" />
@@ -208,7 +182,6 @@
         <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" />
         <option value="$PROJECT_DIR$/config/env/development/saga.json" />
         <option value="$PROJECT_DIR$/config/env/production/saga.json" />
         <option value="$PROJECT_DIR$/lib/sale-clients/estilos.js" />
@@ -216,6 +189,8 @@
         <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js" />
         <option value="$PROJECT_DIR$/lib/utilReadFile.js" />
+        <option value="$PROJECT_DIR$/lib/utilRead.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" />
       </list>
     </option>
   </component>
@@ -588,8 +563,34 @@
       <option name="project" value="LOCAL" />
       <updated>1460506354627</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial&#10;">
+      <created>1460834906186</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1460834906187</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="738" extended-state="0" />
@@ -597,21 +598,21 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62341774" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.017405063" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39004815" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3306581" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62341774" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -690,40 +691,37 @@
           <line>251</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
+          <line>209</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilReadFile.js</url>
+          <line>1127</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilReadFile.js</url>
+          <line>152</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
+          <line>210</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
+          <line>330</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/models/Retails.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10955961" vertical-offset="0" max-vertical-offset="931">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/models/ComCarga.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.062653564" vertical-offset="0" max-vertical-offset="814">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/ClientProccessDispatcher.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16713484" vertical-offset="0" max-vertical-offset="712">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/estilos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74531835" vertical-offset="372" max-vertical-offset="1173">
-          <caret line="57" column="8" selection-start-line="57" selection-start-column="8" selection-end-line="57" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/sale-clients/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.761548" vertical-offset="1989" max-vertical-offset="3791">
@@ -885,6 +883,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4890017" vertical-offset="0" max-vertical-offset="2227">
           <caret line="17" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,13 +1017,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5177665" vertical-offset="1360" max-vertical-offset="2227">
-          <caret line="86" column="24" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/credivargas.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6451613" vertical-offset="400" max-vertical-offset="1173">
@@ -1047,40 +1039,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/utilReadFile.js">
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/ripley.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35813954" vertical-offset="12571" max-vertical-offset="16371">
-          <caret line="1041" column="0" selection-start-line="1041" selection-start-column="0" selection-end-line="1041" selection-end-column="0" />
-          <folding>
-            <element signature="e#538#626#0" expanded="false" />
-            <element signature="e#633#698#0" expanded="false" />
-            <element signature="e#2433#2474#0" expanded="false" />
-            <element signature="e#2533#3043#0" expanded="false" />
-            <element signature="e#3089#3526#0" expanded="false" />
-            <element signature="e#3587#4030#0" expanded="false" />
-            <element signature="e#4709#5281#0" expanded="false" />
-            <element signature="e#5492#6524#0" expanded="false" />
-            <element signature="e#6737#7755#0" expanded="false" />
-            <element signature="e#7837#7894#0" expanded="false" />
-            <element signature="e#15950#16020#0" expanded="false" />
-            <element signature="e#16083#16140#0" expanded="false" />
-            <element signature="e#16195#16243#0" expanded="false" />
-            <element signature="e#16313#16368#0" expanded="false" />
-            <element signature="e#16566#16625#0" expanded="false" />
-            <element signature="e#17611#18630#0" expanded="false" />
-            <element signature="e#18707#19064#0" expanded="false" />
-            <element signature="e#19194#20291#0" expanded="false" />
-            <element signature="e#20522#21296#0" expanded="false" />
-            <element signature="e#22630#23659#0" expanded="false" />
-            <element signature="e#34140#34505#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-1.6190476" vertical-offset="561" max-vertical-offset="1173">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/models/Retails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6317568" vertical-offset="51" max-vertical-offset="544">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.737003" vertical-offset="2377" max-vertical-offset="2771">
-          <caret line="154" column="11" selection-start-line="154" selection-start-column="11" selection-end-line="154" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.76666665" vertical-offset="2224" max-vertical-offset="2771">
+          <caret line="143" column="86" selection-start-line="143" selection-start-column="16" selection-end-line="143" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33035713" vertical-offset="15991" max-vertical-offset="81617">
+          <caret line="945" column="18" selection-start-line="945" selection-start-column="18" selection-end-line="945" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utilReadFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-68.0" vertical-offset="10421" max-vertical-offset="18683">
+          <caret line="778" column="0" selection-start-line="778" selection-start-column="0" selection-end-line="781" selection-end-column="1" />
+          <folding>
+            <element signature="e#538#626#0" expanded="false" />
+            <element signature="e#633#698#0" expanded="false" />
+            <element signature="e#1109#2391#0" expanded="false" />
+            <element signature="e#2433#2474#0" expanded="false" />
+            <element signature="e#2533#3043#0" expanded="false" />
+            <element signature="e#3089#3526#0" expanded="false" />
+            <element signature="e#3587#4030#0" expanded="false" />
+            <element signature="e#4092#4653#0" expanded="false" />
+            <element signature="e#4709#5281#0" expanded="false" />
+            <element signature="e#8885#10696#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/utilRead.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.5294118" vertical-offset="380" max-vertical-offset="969">
+          <caret line="168" column="67" selection-start-line="168" selection-start-column="67" selection-end-line="168" selection-end-column="67" />
+          <folding>
+            <element signature="e#400#460#0" expanded="false" />
+            <element signature="e#506#545#0" expanded="false" />
+            <element signature="e#594#640#0" expanded="false" />
+            <element signature="e#696#745#0" expanded="false" />
+            <element signature="e#932#985#0" expanded="false" />
+            <element signature="e#1104#1209#0" expanded="false" />
+            <element signature="e#1270#1319#0" expanded="false" />
+            <element signature="e#1384#1435#0" expanded="false" />
+            <element signature="e#1501#1555#0" expanded="false" />
+            <element signature="e#1624#1677#0" expanded="false" />
+            <element signature="e#1728#1772#0" expanded="false" />
+            <element signature="e#1834#1883#0" expanded="false" />
+            <element signature="e#1959#2022#0" expanded="false" />
+            <element signature="e#2070#2116#0" expanded="false" />
+            <element signature="e#2184#2635#0" expanded="false" />
+            <element signature="e#2681#2716#0" expanded="false" />
+            <element signature="e#2765#2935#0" expanded="false" />
+            <element signature="e#2998#4180#0" expanded="false" />
+            <element signature="e#4226#4412#0" expanded="false" />
+            <element signature="e#4461#5139#0" expanded="false" />
+            <element signature="e#5195#5707#0" expanded="false" />
+            <element signature="e#5775#6432#0" expanded="false" />
+            <element signature="e#5899#6375#0" expanded="false" />
+            <element signature="e#6490#7046#0" expanded="false" />
+            <element signature="e#7156#7883#0" expanded="false" />
+            <element signature="e#7944#8227#0" expanded="false" />
+            <element signature="e#8291#9730#0" expanded="false" />
+            <element signature="e#9801#11237#0" expanded="false" />
+            <element signature="e#11305#12581#0" expanded="false" />
+            <element signature="e#12632#13361#0" expanded="false" />
+            <element signature="e#13423#14853#0" expanded="false" />
+            <element signature="e#14910#15857#0" expanded="false" />
+            <element signature="e#15906#15993#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5030864" vertical-offset="1706" max-vertical-offset="2346">
+          <caret line="129" column="48" selection-start-line="129" selection-start-column="48" selection-end-line="129" selection-end-column="48" />
           <folding />
         </state>
       </provider>
