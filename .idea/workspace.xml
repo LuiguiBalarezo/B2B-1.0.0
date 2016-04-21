@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e60b94eb-c332-476a-b973-329e913030cc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/utilRead.js" />
+      <change type="MOVED" beforePath="C:\xampp\htdocs\B2B-1.0.0\lib\sale-clients\estilos.js" afterPath="$PROJECT_DIR$/lib/sale-clients/Running.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snapshots/SAGAfillingMenu.png" afterPath="$PROJECT_DIR$/snapshots/SAGAfillingMenu.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/snapshots/sAGAVentas.png" afterPath="$PROJECT_DIR$/snapshots/sAGAVentas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/utilRead.js" afterPath="$PROJECT_DIR$/lib/utilRead.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" afterPath="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" />
     </list>
@@ -25,96 +40,57 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
   </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="B2B-1.0.0" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.9">
+    <splitter split-orientation="vertical" split-proportion="0.6666667">
       <split-first>
-        <splitter split-orientation="vertical" split-proportion="0.70855147">
-          <split-first>
-            <leaf>
-              <file leaf-file-name="yucra.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="1.5030864" vertical-offset="1706" max-vertical-offset="2346">
-                      <caret line="129" column="48" selection-start-line="129" selection-start-column="48" selection-end-line="129" selection-end-column="48" />
-                      <folding />
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-first>
-          <split-second>
-            <leaf>
-              <file leaf-file-name="utilRead.js" pinned="false" current-in-tab="true">
-                <entry file="file://$PROJECT_DIR$/lib/utilRead.js">
-                  <provider selected="true" editor-type-id="text-editor">
-                    <state vertical-scroll-proportion="3.5294118" vertical-offset="380" max-vertical-offset="969">
-                      <caret line="168" column="67" selection-start-line="168" selection-start-column="67" selection-end-line="168" selection-end-column="67" />
-                      <folding>
-                        <element signature="e#400#460#0" expanded="false" />
-                        <element signature="e#506#545#0" expanded="false" />
-                        <element signature="e#594#640#0" expanded="false" />
-                        <element signature="e#696#745#0" expanded="false" />
-                        <element signature="e#932#985#0" expanded="false" />
-                        <element signature="e#1104#1209#0" expanded="false" />
-                        <element signature="e#1270#1319#0" expanded="false" />
-                        <element signature="e#1384#1435#0" expanded="false" />
-                        <element signature="e#1501#1555#0" expanded="false" />
-                        <element signature="e#1624#1677#0" expanded="false" />
-                        <element signature="e#1728#1772#0" expanded="false" />
-                        <element signature="e#1834#1883#0" expanded="false" />
-                        <element signature="e#1959#2022#0" expanded="false" />
-                        <element signature="e#2070#2116#0" expanded="false" />
-                        <element signature="e#2184#2635#0" expanded="false" />
-                        <element signature="e#2681#2716#0" expanded="false" />
-                        <element signature="e#2765#2935#0" expanded="false" />
-                        <element signature="e#2998#4180#0" expanded="false" />
-                        <element signature="e#4226#4412#0" expanded="false" />
-                        <element signature="e#4461#5139#0" expanded="false" />
-                        <element signature="e#5195#5707#0" expanded="false" />
-                        <element signature="e#5775#6432#0" expanded="false" />
-                        <element signature="e#5899#6375#0" expanded="false" />
-                        <element signature="e#6490#7046#0" expanded="false" />
-                        <element signature="e#7156#7883#0" expanded="false" />
-                        <element signature="e#7944#8227#0" expanded="false" />
-                        <element signature="e#8291#9730#0" expanded="false" />
-                        <element signature="e#9801#11237#0" expanded="false" />
-                        <element signature="e#11305#12581#0" expanded="false" />
-                        <element signature="e#12632#13361#0" expanded="false" />
-                        <element signature="e#13423#14853#0" expanded="false" />
-                        <element signature="e#14910#15857#0" expanded="false" />
-                        <element signature="e#15906#15993#0" expanded="false" />
-                      </folding>
-                    </state>
-                  </provider>
-                </entry>
-              </file>
-            </leaf>
-          </split-second>
-        </splitter>
-      </split-first>
-      <split-second>
         <leaf>
-          <file leaf-file-name="utilReadFile.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/lib/utilReadFile.js">
+          <file leaf-file-name="Running.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/Running.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-68.0" vertical-offset="10421" max-vertical-offset="18683">
-                  <caret line="778" column="0" selection-start-line="778" selection-start-column="0" selection-end-line="781" selection-end-column="1" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2669">
+                  <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ripley.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-3.0689654" vertical-offset="1611" max-vertical-offset="1802">
+                  <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="saga.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.56666666" vertical-offset="3264" max-vertical-offset="10336">
+                  <caret line="205" column="31" selection-start-line="205" selection-start-column="31" selection-end-line="205" selection-end-column="31" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="estilos.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-2.310345" vertical-offset="1429" max-vertical-offset="2822">
+                  <caret line="88" column="97" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="97" />
                   <folding>
-                    <element signature="e#538#626#0" expanded="false" />
-                    <element signature="e#633#698#0" expanded="false" />
-                    <element signature="e#1109#2391#0" expanded="false" />
-                    <element signature="e#2433#2474#0" expanded="false" />
-                    <element signature="e#2533#3043#0" expanded="false" />
-                    <element signature="e#3089#3526#0" expanded="false" />
-                    <element signature="e#3587#4030#0" expanded="false" />
-                    <element signature="e#4092#4653#0" expanded="false" />
-                    <element signature="e#4709#5281#0" expanded="false" />
-                    <element signature="e#8885#10696#0" expanded="false" />
+                    <element signature="e#3986#6319#0" expanded="false" />
                   </folding>
                 </state>
               </provider>
@@ -123,14 +99,138 @@
           <file leaf-file-name="oechsle.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="1915" max-vertical-offset="2312">
-                  <caret line="117" column="44" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="44" />
+                <state vertical-scroll-proportion="0.0" vertical-offset="1349" max-vertical-offset="1785">
+                  <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="paris.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1193" max-vertical-offset="1751">
+                  <caret line="82" column="9" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="57" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="dimersa.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-6.827586" vertical-offset="1332" max-vertical-offset="1683">
+                  <caret line="90" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="predilecta.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1255" max-vertical-offset="1683">
+                  <caret line="92" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="quispe.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1683">
+                  <caret line="54" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="comercialrivera.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0" vertical-offset="1102" max-vertical-offset="1683">
+                  <caret line="72" column="50" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
         </leaf>
+      </split-first>
+      <split-second>
+        <splitter split-orientation="vertical" split-proportion="0.9">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="utilRead.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/lib/utilRead.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state vertical-scroll-proportion="0.8061224" vertical-offset="1825" max-vertical-offset="2159">
+                      <caret line="608" column="1" selection-start-line="608" selection-start-column="1" selection-end-line="608" selection-end-column="1" />
+                      <folding>
+                        <element signature="e#3343#3794#0" expanded="false" />
+                        <element signature="e#3829#3864#0" expanded="false" />
+                        <element signature="e#3903#4073#0" expanded="false" />
+                        <element signature="e#4128#5310#0" expanded="false" />
+                        <element signature="e#5343#5529#0" expanded="false" />
+                        <element signature="e#5569#6247#0" expanded="false" />
+                        <element signature="e#6290#6802#0" expanded="false" />
+                        <element signature="e#6857#7514#0" expanded="false" />
+                        <element signature="e#7561#8117#0" expanded="false" />
+                        <element signature="e#8216#8947#0" expanded="false" />
+                        <element signature="e#8990#9273#0" expanded="false" />
+                        <element signature="e#9317#10756#0" expanded="false" />
+                        <element signature="e#10809#12245#0" expanded="false" />
+                        <element signature="e#12292#14920#0" expanded="false" />
+                        <element signature="e#14958#15789#0" expanded="false" />
+                        <element signature="e#15841#16186#0" expanded="false" />
+                        <element signature="e#16230#17845#0" expanded="false" />
+                        <element signature="e#17908#18667#0" expanded="false" />
+                        <element signature="e#18734#19370#0" expanded="false" />
+                        <element signature="e#19464#20401#0" expanded="false" />
+                        <element signature="e#20452#20840#0" expanded="false" />
+                        <element signature="e#20919#22226#0" expanded="false" />
+                        <element signature="e#22288#22967#0" expanded="false" />
+                        <element signature="e#23021#23577#0" expanded="false" />
+                        <element signature="e#23682#24111#0" expanded="false" />
+                        <element signature="e#24218#27293#0" expanded="false" />
+                        <element signature="e#27336#29135#0" expanded="false" />
+                        <element signature="e#29192#30139#0" expanded="false" />
+                        <element signature="e#30188#30509#0" expanded="false" />
+                        <element signature="e#30549#30636#0" expanded="false" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="utilReadFile.js" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/lib/utilReadFile.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state vertical-scroll-proportion="-4.5416665" vertical-offset="4311" max-vertical-offset="18683">
+                      <caret line="421" column="41" selection-start-line="421" selection-start-column="28" selection-end-line="421" selection-end-column="41" />
+                      <folding>
+                        <element signature="e#538#626#0" expanded="false" />
+                        <element signature="e#633#698#0" expanded="false" />
+                        <element signature="e#1109#2391#0" expanded="false" />
+                        <element signature="e#2433#2474#0" expanded="false" />
+                        <element signature="e#2533#3043#0" expanded="false" />
+                        <element signature="e#3089#3526#0" expanded="false" />
+                        <element signature="e#3587#4030#0" expanded="false" />
+                        <element signature="e#4092#4653#0" expanded="false" />
+                        <element signature="e#4709#5281#0" expanded="false" />
+                        <element signature="e#8885#10696#0" expanded="false" />
+                      </folding>
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
       </split-second>
     </splitter>
   </component>
@@ -140,7 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/sale-clients/temporal/saga.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/temporal/tottus.js" />
         <option value="$PROJECT_DIR$/config/env/common.json" />
         <option value="$PROJECT_DIR$/config/env/production/configfolder.json" />
@@ -157,14 +256,9 @@
         <option value="$PROJECT_DIR$/lib/models/Productos.js" />
         <option value="$PROJECT_DIR$/config/env/development/oechsle.json" />
         <option value="$PROJECT_DIR$/config/env/production/oechsle.json" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js" />
         <option value="$PROJECT_DIR$/config/env/production/paris.json" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js" />
         <option value="$PROJECT_DIR$/config/env/production/metro.json" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/loggers/llontop.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/loggers/comercialrivera.js" />
         <option value="$PROJECT_DIR$/config/env/development/mario.json" />
         <option value="$PROJECT_DIR$/config/env/development/credivargas.json" />
@@ -174,23 +268,29 @@
         <option value="$PROJECT_DIR$/config/env/development/predilecta.json" />
         <option value="$PROJECT_DIR$/config/env/development/quispe.json" />
         <option value="$PROJECT_DIR$/config/env/development/yucra.json" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js" />
         <option value="$PROJECT_DIR$/config/env/development/dimersa.json" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js" />
         <option value="$PROJECT_DIR$/config/env/development/saga.json" />
         <option value="$PROJECT_DIR$/config/env/production/saga.json" />
         <option value="$PROJECT_DIR$/lib/sale-clients/estilos.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js" />
-        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js" />
         <option value="$PROJECT_DIR$/lib/utilReadFile.js" />
-        <option value="$PROJECT_DIR$/lib/utilRead.js" />
         <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/Running.js" />
+        <option value="$PROJECT_DIR$/lib/utilRead.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js" />
+        <option value="$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js" />
       </list>
     </option>
   </component>
@@ -199,9 +299,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
-    <option name="width" value="683" />
-    <option name="height" value="738" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -318,32 +419,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="proccess-data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="B2B-1.0.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="B2B-1.0.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sale-clients" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="proccess-data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="temporal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -569,7 +644,13 @@
       <option name="project" value="LOCAL" />
       <updated>1460834906187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial&#10;">
+      <created>1460997113573</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1460997113573</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -593,22 +674,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="738" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.62341774" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.017405063" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3306581" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09757943" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -682,19 +763,14 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/sale-clients/estilos.js</url>
-          <line>80</line>
+          <url>file://$PROJECT_DIR$/lib/sale-clients/Running.js</url>
+          <line>75</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lib/utilReadFile.js</url>
           <line>251</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
-          <line>209</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lib/utilReadFile.js</url>
@@ -708,16 +784,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
-          <line>210</line>
-          <option name="timeStamp" value="12" />
+          <line>148</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
-          <line>330</line>
-          <option name="timeStamp" value="14" />
+          <line>102</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
+          <line>112</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
+          <line>257</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lib/utilRead.js</url>
+          <line>89</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="15" />
+      <option name="time" value="22" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -758,40 +849,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.859375" vertical-offset="1462" max-vertical-offset="2244">
-          <caret line="114" column="48" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53697747" vertical-offset="1856" max-vertical-offset="2329">
-          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/metro.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41530055" vertical-offset="1837" max-vertical-offset="2261">
-          <caret line="117" column="143" selection-start-line="117" selection-start-column="143" selection-end-line="117" selection-end-column="143" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4069149" vertical-offset="0" max-vertical-offset="2227">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -879,21 +940,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4890017" vertical-offset="0" max-vertical-offset="2227">
-          <caret line="17" column="11" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2227">
-          <caret line="103" column="45" selection-start-line="103" selection-start-column="45" selection-end-line="103" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/env/development/dimersa.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="255">
@@ -915,13 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46023688" vertical-offset="1173" max-vertical-offset="2227">
-          <caret line="85" column="34" selection-start-line="85" selection-start-column="34" selection-end-line="85" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/env/development/importancionessur.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21061946" vertical-offset="0" max-vertical-offset="565">
@@ -936,39 +975,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1173" max-vertical-offset="2193">
-          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1296" max-vertical-offset="2210">
-          <caret line="90" column="62" selection-start-line="90" selection-start-column="62" selection-end-line="90" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/llontop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2193">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.53263706" vertical-offset="1479" max-vertical-offset="2210">
-          <caret line="99" column="56" selection-start-line="99" selection-start-column="48" selection-end-line="99" selection-end-column="56" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1001,44 +1011,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3807106" vertical-offset="1428" max-vertical-offset="2227">
-          <caret line="100" column="63" selection-start-line="100" selection-start-column="63" selection-end-line="100" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/estilos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1573603" vertical-offset="1683" max-vertical-offset="2550">
-          <caret line="124" column="75" selection-start-line="124" selection-start-column="75" selection-end-line="124" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/credivargas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6451613" vertical-offset="400" max-vertical-offset="1173">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59560066" vertical-offset="1603" max-vertical-offset="2210">
-          <caret line="115" column="44" selection-start-line="115" selection-start-column="33" selection-end-line="115" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1915" max-vertical-offset="2312">
-          <caret line="117" column="44" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/ripley.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.6190476" vertical-offset="561" max-vertical-offset="1173">
@@ -1055,14 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76666665" vertical-offset="2224" max-vertical-offset="2771">
-          <caret line="143" column="86" selection-start-line="143" selection-start-column="16" selection-end-line="143" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33035713" vertical-offset="15991" max-vertical-offset="81617">
@@ -1071,10 +1035,140 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/loggers/credivargas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.1331445" vertical-offset="400" max-vertical-offset="1173">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="42.37931" vertical-offset="1297" max-vertical-offset="1683">
+          <caret line="4" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionescasel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1136" max-vertical-offset="1683">
+          <caret line="70" column="58" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/credivargas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.827586" vertical-offset="876" max-vertical-offset="1683">
+          <caret line="70" column="50" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/importacionessur.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="898" max-vertical-offset="1683">
+          <caret line="65" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/llontop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="1683">
+          <caret line="73" column="32" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/mario.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="1683">
+          <caret line="70" column="44" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/metro.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1013" max-vertical-offset="1683">
+          <caret line="74" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/quispe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1683">
+          <caret line="54" column="25" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/comercialrivera.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1102" max-vertical-offset="1683">
+          <caret line="72" column="50" selection-start-line="72" selection-start-column="50" selection-end-line="72" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/predilecta.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1255" max-vertical-offset="1683">
+          <caret line="92" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/dimersa.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.827586" vertical-offset="1332" max-vertical-offset="1683">
+          <caret line="90" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/Running.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2669">
+          <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/oechsle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1094" max-vertical-offset="1785">
+          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/paris.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1295" max-vertical-offset="1751">
+          <caret line="82" column="9" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/estilos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.310345" vertical-offset="1429" max-vertical-offset="2822">
+          <caret line="88" column="97" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="97" />
+          <folding>
+            <element signature="e#3986#6319#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/utilReadFile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-68.0" vertical-offset="10421" max-vertical-offset="18683">
-          <caret line="778" column="0" selection-start-line="778" selection-start-column="0" selection-end-line="781" selection-end-column="1" />
+        <state vertical-scroll-proportion="-4.5416665" vertical-offset="4311" max-vertical-offset="18683">
+          <caret line="421" column="41" selection-start-line="421" selection-start-column="28" selection-end-line="421" selection-end-column="41" />
           <folding>
             <element signature="e#538#626#0" expanded="false" />
             <element signature="e#633#698#0" expanded="false" />
@@ -1092,50 +1186,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/utilRead.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="3.5294118" vertical-offset="380" max-vertical-offset="969">
-          <caret line="168" column="67" selection-start-line="168" selection-start-column="67" selection-end-line="168" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.8061224" vertical-offset="1825" max-vertical-offset="2159">
+          <caret line="608" column="1" selection-start-line="608" selection-start-column="1" selection-end-line="608" selection-end-column="1" />
           <folding>
-            <element signature="e#400#460#0" expanded="false" />
-            <element signature="e#506#545#0" expanded="false" />
-            <element signature="e#594#640#0" expanded="false" />
-            <element signature="e#696#745#0" expanded="false" />
-            <element signature="e#932#985#0" expanded="false" />
-            <element signature="e#1104#1209#0" expanded="false" />
-            <element signature="e#1270#1319#0" expanded="false" />
-            <element signature="e#1384#1435#0" expanded="false" />
-            <element signature="e#1501#1555#0" expanded="false" />
-            <element signature="e#1624#1677#0" expanded="false" />
-            <element signature="e#1728#1772#0" expanded="false" />
-            <element signature="e#1834#1883#0" expanded="false" />
-            <element signature="e#1959#2022#0" expanded="false" />
-            <element signature="e#2070#2116#0" expanded="false" />
-            <element signature="e#2184#2635#0" expanded="false" />
-            <element signature="e#2681#2716#0" expanded="false" />
-            <element signature="e#2765#2935#0" expanded="false" />
-            <element signature="e#2998#4180#0" expanded="false" />
-            <element signature="e#4226#4412#0" expanded="false" />
-            <element signature="e#4461#5139#0" expanded="false" />
-            <element signature="e#5195#5707#0" expanded="false" />
-            <element signature="e#5775#6432#0" expanded="false" />
-            <element signature="e#5899#6375#0" expanded="false" />
-            <element signature="e#6490#7046#0" expanded="false" />
-            <element signature="e#7156#7883#0" expanded="false" />
-            <element signature="e#7944#8227#0" expanded="false" />
-            <element signature="e#8291#9730#0" expanded="false" />
-            <element signature="e#9801#11237#0" expanded="false" />
-            <element signature="e#11305#12581#0" expanded="false" />
-            <element signature="e#12632#13361#0" expanded="false" />
-            <element signature="e#13423#14853#0" expanded="false" />
-            <element signature="e#14910#15857#0" expanded="false" />
-            <element signature="e#15906#15993#0" expanded="false" />
+            <element signature="e#3343#3794#0" expanded="false" />
+            <element signature="e#3829#3864#0" expanded="false" />
+            <element signature="e#3903#4073#0" expanded="false" />
+            <element signature="e#4128#5310#0" expanded="false" />
+            <element signature="e#5343#5529#0" expanded="false" />
+            <element signature="e#5569#6247#0" expanded="false" />
+            <element signature="e#6290#6802#0" expanded="false" />
+            <element signature="e#6857#7514#0" expanded="false" />
+            <element signature="e#7561#8117#0" expanded="false" />
+            <element signature="e#8216#8947#0" expanded="false" />
+            <element signature="e#8990#9273#0" expanded="false" />
+            <element signature="e#9317#10756#0" expanded="false" />
+            <element signature="e#10809#12245#0" expanded="false" />
+            <element signature="e#12292#14920#0" expanded="false" />
+            <element signature="e#14958#15789#0" expanded="false" />
+            <element signature="e#15841#16186#0" expanded="false" />
+            <element signature="e#16230#17845#0" expanded="false" />
+            <element signature="e#17908#18667#0" expanded="false" />
+            <element signature="e#18734#19370#0" expanded="false" />
+            <element signature="e#19464#20401#0" expanded="false" />
+            <element signature="e#20452#20840#0" expanded="false" />
+            <element signature="e#20919#22226#0" expanded="false" />
+            <element signature="e#22288#22967#0" expanded="false" />
+            <element signature="e#23021#23577#0" expanded="false" />
+            <element signature="e#23682#24111#0" expanded="false" />
+            <element signature="e#24218#27293#0" expanded="false" />
+            <element signature="e#27336#29135#0" expanded="false" />
+            <element signature="e#29192#30139#0" expanded="false" />
+            <element signature="e#30188#30509#0" expanded="false" />
+            <element signature="e#30549#30636#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/yucra.js">
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/ripley.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5030864" vertical-offset="1706" max-vertical-offset="2346">
-          <caret line="129" column="48" selection-start-line="129" selection-start-column="48" selection-end-line="129" selection-end-column="48" />
+        <state vertical-scroll-proportion="-3.0689654" vertical-offset="1611" max-vertical-offset="1802">
+          <caret line="100" column="1" selection-start-line="100" selection-start-column="1" selection-end-line="100" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/sale-clients/proccess-data/saga.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56666666" vertical-offset="3264" max-vertical-offset="10336">
+          <caret line="205" column="31" selection-start-line="205" selection-start-column="31" selection-end-line="205" selection-end-column="31" />
           <folding />
         </state>
       </provider>
